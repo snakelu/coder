@@ -27,3 +27,11 @@
 [IPC Library: Pty Host]  WARN Persistent process "1": Process had no disconnect runners but was an orphan
 [IPC Library: Pty Host]  INFO Persistent process reconnection "1"
 [IPC Library: Pty Host]  INFO Persistent process "1": Replaying 3249 chars and 1 size events
+[09:41:40] [172.17.0.1][15f63997][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[09:41:40] [172.17.0.1][1c6b157f][ExtensionHostConnection] <11201> Extension Host Process exited with code: 0, signal: null.
+[09:41:50] [172.17.0.1][76e53ab1][ManagementConnection] New connection established.
+[09:41:51] [172.17.0.1][69e9b680][ExtensionHostConnection] New connection established.
+[09:41:51] [172.17.0.1][69e9b680][ExtensionHostConnection] <18256> Launched Extension Host Process.
+[IPC Library: Pty Host]  WARN Persistent process "1": Process had no disconnect runners but was an orphan
+[IPC Library: Pty Host]  INFO Persistent process reconnection "1"
+[IPC Library: Pty Host]  INFO Persistent process "1": Replaying 7259 chars and 1 size events
