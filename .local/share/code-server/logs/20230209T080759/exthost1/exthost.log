@@ -1,0 +1,17 @@
+2023-02-09 08:08:07.568 [info] Extension host with pid 938 started
+2023-02-09 08:08:07.596 [info] Lock '/home/coder/.local/share/code-server/User/workspaceStorage/d1b2131/vscode.lock': Lock acquired.
+2023-02-09 08:08:07.652 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2023-02-09 08:08:08.252 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-02-09 08:08:08.267 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-02-09 08:08:08.267 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+2023-02-09 08:08:08.267 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-02-09 08:08:08.268 [info] Eager extensions activated
+2023-02-09 08:08:09.041 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2023-02-09 08:10:03.087 [info] ExtensionService#_doActivateExtension ms-vscode.js-debug, startup: false, activationEvent: 'onDebugInitialConfigurations'
+2023-02-09 08:10:07.424 [info] ExtensionService#_doActivateExtension vscode.debug-server-ready, startup: false, activationEvent: 'onDebugResolve'
+2023-02-09 08:10:12.527 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-02-09 08:10:12.528 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-02-09 08:10:12.528 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-02-09 08:28:13.621 [info] Extension host terminating: received terminate message from renderer
+2023-02-09 08:28:13.622 [info] Lock '/home/coder/.local/share/code-server/User/workspaceStorage/d1b2131/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2023-02-09 08:28:13.677 [info] Extension host with pid 938 exiting with code 0

@@ -1,0 +1,29 @@
+[2023-02-09T08:07:44.736Z] info  code-server 4.9.1 f7989a4dfcf21085e52157a01924d79d708bcc05
+[2023-02-09T08:07:44.737Z] info  Using user-data-dir ~/.local/share/code-server
+[2023-02-09T08:07:44.750Z] info  Using config file ~/.config/code-server/config.yaml
+[2023-02-09T08:07:44.751Z] info  HTTP server listening on http://0.0.0.0:8080/ 
+[2023-02-09T08:07:44.751Z] info    - Authentication is enabled
+[2023-02-09T08:07:44.751Z] info      - Using password from $PASSWORD
+[2023-02-09T08:07:44.751Z] info    - Not serving HTTPS 
+[08:07:59] 
+
+
+
+
+[08:07:59] Extension host agent started.
+[08:08:04] [172.17.0.1][e4045012][ManagementConnection] New connection established.
+[08:08:05] [172.17.0.1][3bfb0ac0][ExtensionHostConnection] New connection established.
+[08:08:05] [172.17.0.1][3bfb0ac0][ExtensionHostConnection] <938> Launched Extension Host Process.
+[08:28:13] [172.17.0.1][e4045012][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[08:28:13] [172.17.0.1][3bfb0ac0][ExtensionHostConnection] <938> Extension Host Process exited with code: 0, signal: null.
+[09:00:07] [172.17.0.1][a998d99e][ManagementConnection] New connection established.
+[09:00:08] [172.17.0.1][312f6699][ExtensionHostConnection] New connection established.
+[09:00:08] [172.17.0.1][312f6699][ExtensionHostConnection] <8656> Launched Extension Host Process.
+[09:07:05] [172.17.0.1][a998d99e][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[09:07:05] [172.17.0.1][312f6699][ExtensionHostConnection] <8656> Extension Host Process exited with code: 0, signal: null.
+[09:07:09] [172.17.0.1][15f63997][ManagementConnection] New connection established.
+[09:07:09] [172.17.0.1][1c6b157f][ExtensionHostConnection] New connection established.
+[09:07:09] [172.17.0.1][1c6b157f][ExtensionHostConnection] <11201> Launched Extension Host Process.
+[IPC Library: Pty Host]  WARN Persistent process "1": Process had no disconnect runners but was an orphan
+[IPC Library: Pty Host]  INFO Persistent process reconnection "1"
+[IPC Library: Pty Host]  INFO Persistent process "1": Replaying 3249 chars and 1 size events
